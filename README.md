@@ -1,4 +1,4 @@
-# rms
+# Restaurant Management System
 A restaurant management system using python and sql
 
 Note: This code might not be the final version of this project.
