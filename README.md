@@ -13,4 +13,4 @@ This is a RMS with the following features:
 
 4)A password protected interface for a user to make changes to the SQL code (say to add new menu items or raw materials) directly.
 
-CONTIBUTORS: Abhay Bestrapalli, Anant Tewari, Ajay Bestrapalli
+CONTIBUTORS:  Anant Tewari, Abhay Bestrapalli, Ajay Bestrapalli
